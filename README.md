@@ -1,2 +1,2 @@
 # Embedded-C
-epository for udemy Embedded-C course
+Repository for udemy Embedded-C course
