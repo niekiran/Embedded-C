@@ -1,6 +1,6 @@
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
-//					Implementation of printf like feature using ARM Cortex M3/M4/M7 ITM functionality
+//					Implementation of printf like feature using ARM Cortex M3/M4/ ITM functionality
 //					This function will not work for ARM Cortex M0/M0+
 //					If you are using Cortex M0, then you can use semihosting feature of openOCD
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
